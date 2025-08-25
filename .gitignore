@@ -1,0 +1,47 @@
+## Build sonuçları
+bin/
+obj/
+out/
+
+## Visual Studio dosyaları
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider IDE
+.idea/
+
+## Paketler
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+## Dotnet Core publish klasörü
+publish/
+
+## Resharper
+_ReSharper*/
+*.DotSettings.user
+
+## Rider
+.idea/
+
+## VS Code
+.vscode/
+
+## Log dosyaları
+*.log
+
+## OS dosyaları
+.DS_Store
+Thumbs.db
+
+## Azure Pipelines
+*.azure-pipelines.yml
+
+## Test sonuçları
+TestRes
